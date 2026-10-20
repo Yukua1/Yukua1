@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1D4ED8,100:06B6D4&height=220&section=header&text=Anti%20Yukua1&fontSize=56&fontColor=F8FAFC&animation=twinkling&fontAlignY=35&desc=AI%20Agent%20%7C%20Context%20Engineering%20%7C%20LLM%20Applications&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1D4ED8,100:06B6D4&height=220&section=header&text=Anti%20Yukua1&fontSize=56&fontColor=F8FAFC&animation=twinkling&fontAlignY=35&desc=AI+Agent+%7C+Context+Engineering+%7C+LLM+Applications&descAlignY=58&descSize=18" width="100%" />
 </p>
 
 <p align="center">
@@ -54,6 +54,16 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yukua1&bg_color=0f172a&color=7dd3fc&line=38bdf8&point=f8fafc&area=true&hide_border=true" width="95%" alt="Contribution activity graph" />
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yukua1/Yukua1/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yukua1/Yukua1/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Yukua1/Yukua1/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="100%" />
+  </picture>
 </p>
 
 ## 📚 Currently learning
