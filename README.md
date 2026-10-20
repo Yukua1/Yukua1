@@ -9,7 +9,6 @@
 <p align="center">
   <a href="https://github.com/Yukua1"><img src="https://img.shields.io/github/followers/Yukua1?label=Followers&style=for-the-badge&color=2563EB" alt="Followers" /></a>
   <a href="https://github.com/Yukua1?tab=repositories"><img src="https://img.shields.io/badge/Focus-Agent%20Engineering-06B6D4?style=for-the-badge" alt="Focus" /></a>
-  <a href="https://github.com/Yukua1/Yukua1"><img src="https://komarev.com/ghpvc/?username=Yukua1&style=for-the-badge&color=0EA5E9" alt="Profile views" /></a>
 </p>
 
 ## 👋 About me
