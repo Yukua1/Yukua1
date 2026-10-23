@@ -31,9 +31,9 @@
 
 ## 🚀 Featured projects
 
-- [OpenViking](https://github.com/volcengine/OpenViking) — 面向 AI Agent 的上下文数据库，统一管理记忆、知识与技能。
-- [AgentScope Java](https://github.com/agentscope-ai/agentscope-java) — 用 Java 构建生产级、可扩展的 Agent 应用。
-- [agentscope-java](https://github.com/Yukua1/agentscope-java) — 对 AgentScope Java 的学习、实践与贡献记录。
+- [OpenViking](https://github.com/volcengine/OpenViking) — 面向 AI Agent 的上下文数据库。
+- [AgentScope Java](https://github.com/agentscope-ai/agentscope-java) — 用 Java 构建可扩展的 Agent 应用。
+- [agentscope-java](https://github.com/Yukua1/agentscope-java) — 我的学习、实践与贡献记录。
 
 ## 🧰 Tech stack
 
@@ -52,24 +52,20 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yukua1&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yukua1&bg_color=0f172a&color=7dd3fc&line=38bdf8&point=f8fafc&area=true&hide_border=true" width="95%" alt="Contribution activity graph" />
-</p>
-
 ## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yukua1/Yukua1/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yukua1/Yukua1/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/Yukua1/Yukua1/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yukua1/Yukua1/gh-pages/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yukua1/Yukua1/gh-pages/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Yukua1/Yukua1/gh-pages/github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="100%" />
   </picture>
 </p>
 
 ## 📚 Currently learning
 
 - 如何设计稳定、可观测、可恢复的 Agent Runtime
-- 如何让上下文、记忆和知识真正服务于 Agent 决策
+- 如何让上下文、记忆和知识服务于 Agent 决策
 - 如何用系统化方法理解金融、区块链与 Web3
 
 > 代码是我理解世界的方式，持续构建是我保持好奇心的方式。
